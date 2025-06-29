@@ -1,2 +1,8 @@
-# CSS-Tienda-Arquitectura
-Diseño básico y desde cero de una tienda de cabañas
+# Proyecto CSS de una Tienda de Arquitectura
+Este proyecto es una plantilla con css puro hecha desde cero, donde se cubren los temas basicos sobre css junto con:
+
+- Box Model
+- Flexbox
+- CSS Grid
+- Responsive Web Design
+- Pseudoelementos
